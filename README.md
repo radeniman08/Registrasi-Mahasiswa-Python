@@ -1,6 +1,6 @@
 # Registrasi-Mahasiswa-Python
 HOME
-!(https://user-images.githubusercontent.com/64520750/153986601-19a10fde-26aa-4b87-9582-5a8b6594be0a.png)
+![Home](https://user-images.githubusercontent.com/64520750/153986937-06b0c13a-0199-40f1-9ab9-9134e630a276.png)
 
 Upload Result Display
-![(https://user-images.githubusercontent.com/64520750/153986643-b265fee4-1503-4485-842a-ecf995838447.png)
+![Tampilan](https://user-images.githubusercontent.com/64520750/153986951-d1657bbd-f01b-40c3-8fc7-45717bdb504e.png)
